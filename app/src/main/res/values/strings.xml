@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidDz.8</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dad">dad</string>
+    <string name="mom">Mom</string>
+    <string name="grandfather">grandfather</string>
+    <string name="granny">Granny</string>
+    <string name="sister">sister</string>
+    <string name="brother">brother</string>
+    <string name="friend">Misha</string>
+    <string name="friend_girl">Masha</string>
+</resources>
